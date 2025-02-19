@@ -5,6 +5,7 @@ permalink: /blog/
 ---
 
 Recent statements and articles by DSA Chapter.
+test lol
 
 <div class="row my-5">
   {% for post in site.posts %}
