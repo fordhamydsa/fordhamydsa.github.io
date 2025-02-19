@@ -4,5 +4,5 @@ title: "About"
 permalink: /about/
 ---
 
-WIP! This is a test!
+WIP! 
 [Click here to return to the homepage](https://fordhamydsa.github.io)
