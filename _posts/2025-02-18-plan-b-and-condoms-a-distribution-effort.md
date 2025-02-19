@@ -4,7 +4,7 @@ title: "Plan B and Condoms: A Distribution Effort"
 permalink: /2025-02-18-plan-b-and-condoms-a-distribution-effort/
 tag: reproductive
 short_description: "Plan B and Condoms to be Distributed."
-image: "assets/images/PosterForPlanB.png"
+image: "assets/images/PosterForYDSA.png"
 image_alt: "Just a cool poster ig"
 image_caption: ""
 ---
