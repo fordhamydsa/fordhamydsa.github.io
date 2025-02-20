@@ -17,6 +17,7 @@ The first we would like to bring your attention to concerns bodily atonomy. To m
 - more comprehensive sexual health and women’s healthcare education at freshman orientation
 - make prescription birth control available to students at the Fordham student health center. Eliminate structured barriers for accessing contraceptives
 - provide condoms to students free of charge at Fordham student health center
+
 For more information and how to sign this petition, it can be accessed at this [link](https://actionnetwork.org/petitions/protect-our-right-to-bodily-autonomy), and from the URL given below.
 https://actionnetwork.org/petitions/protect-our-right-to-bodily-autonomy
 
