@@ -4,7 +4,7 @@ title: "forms"
 permalink: /forms/
 ---
 
-Recent statements and articles by DSA Chapter.
+A collection of forms for your convenience. 
 
 
 <div class="row my-5">
