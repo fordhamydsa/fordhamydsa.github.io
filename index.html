@@ -13,7 +13,7 @@ layout: default
   <div>   
     <div class="row">
      <div class="col-md6">
-      <h3 class="my-5" style="border-bottom: 1px solid #dee2e6 !important;">Recent Statements</h3>
+      <h2 class="my-5" style="border-bottom: 1px solid #dee2e6 !important;">Recent Statements</h2>
         {% for post in site.posts limit:3 %}
         <div class="col-12">
           <h6 class="my-0 text-black-tint-2">{{ post.date | date: "%b %-d, %Y" }}</h6>
@@ -25,4 +25,5 @@ layout: default
     <div class="col-md-6 col-sm-12">
       <img src="assets/images/biglogo.png" height="auto" alt="Pic of our logo" />
     </div>
+  </div>
 </div>
