@@ -3,6 +3,10 @@ layout: page
 title: "Get Involved"
 permalink: /get-involved/
 ---
+<h3>Join YDSA Today</h3>
+Interested in joining the YDSA on campus? Please out this [form](
+https://docs.google.com/forms/d/1KfVE13-Zh-l976LPzJmSbmk06XRVkOIJrBkNTiW_Ggg/edit#response=ACYDBNgacNurROZzHzSOqCxcfV9ug8JiuBjBQI-tXBhUDvyX9QdwyvKuOfYByegJMEV8OLQ
+)
 
 <h2>Join DSA!</h2>
 
