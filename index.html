@@ -2,106 +2,25 @@
 layout: default
 ---
 
-{% assign about = site.data.copy.global[0] %} {% assign welcome =
-site.data.copy.global[1] %}
+{% assign about = site.data.copy.global.about %}
+{% assign welcome = site.data.copy.global.welcome %}
 
 <div class="container my-5">
   <div class="row">
-    <!-- WELCOME HEADER -->
-    <h1>{{ welcome.welcome }}</h1>
-    <hr class="large" />
-  </div>
-
-  <div>
-    <div class="row">
-      <div class="col-md-6">
-        <!-- RECENT UPDATES WIDGET -->
-        <h2 class="my-5">Recent Updates</h2>
-        <!-- {% for post in site.posts limit:3 %}
-        <div class="col-12">
-          <h6 class="my-0 text-black-tint-2">{{ post.date | date: "%b %-d, %Y" }}</h6>
-          <a class="my-0 article-link" href="{{ post.url }}">{{ post.title }}</a>
-          <p>{{ post.short_description }}</p>
-        </div>
-        {% endfor %} -->
-        <!-- Get three most recent posts from bhamdsa Substack. -->
-        <div id="substack-feed-embed"></div>
-
-        <script>
-          window.SubstackFeedWidget = {
-            substackUrl: "bhamdsa.substack.com",
-            posts: 3,
-            hidden: ["image", "author", "premium", "comments", "reactions"],
-          };
-        </script>
-        <script src="https://substackapi.com/embeds/feed.js" async></script>
-      </div>
-      <div class="col-md-6">
-        <!-- BAMAZON PICTURE -->
-        <!-- <a href="https://drive.google.com/uc?export=view&id=1W_Sv9NhEzTJJvElQ1IMJThk_QC3CTwsj">
-          <img src="assets/images/frontpage-thumb.jpeg" width="90%" height="auto" alt="Several Birmingham DSA members standing holding a Vote Unition sign" />
-        </a> -->
-        <style>
-          .slideshow {
-            background-color: lightgray;
-            position: relative;
-            width: 100%;
-            aspect-ratio: 4 / 3 !important;
-            margin: auto;
-            overflow: hidden;
-            display: flex;
-            flex-flow: row nowrap;
-            justify-content: center;
-            align-items: center;
-          }
-
-          .slideshow div.slide {
-            flex-flow: column nowrap;
-            justify-content: center;
-            align-items: center;
-            background-color: lightgray;
-            margin: auto;
-          }
-
-          .slideshow div img {
-            max-width: 100%;
-            max-height: 100%;
-            width: auto;
-            height: auto;
-            margin: auto !important;
-          }
-
-          .slideshow a.previous,
-          .slideshow a.next {
-            cursor: pointer;
-            position: absolute;
-            top: 50%;
-            width: auto;
-            padding: 16px;
-            margin-top: -22px;
-            color: white !important;
-            /* 1px black text outline */
-            text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
-              1px 1px 0 #000;
-            font-weight: bold;
-            font-size: 2rem;
-            transition: 0.6s ease;
-            border-radius: 0 3px 3px 0;
-            user-select: none;
-          }
-
-          .previous {
-            left: 0;
-            border-radius: 0 3px 3px 0;
-          }
-
-          .next {
-            right: 0;
-            border-radius: 3px 0 0 3px;
-          }
-
-          .previous:hover,
-          .next:hover {
-            background-color: rgba(0, 0, 0, 0.8);
-          }
-        </style>  
+    <div class="col-md-6 col-sm-12 text-center">
+      <img src="assets/images/biglogo.png" height="auto" alt="Pic of our logo" />
+    </div>
+       </div>
+<div class="row">
+    <div class="col-12">
+      <h3 class="my-5">Recent Statements</h2>
+    </div>
+    {% for post in site.posts limit:3 %}
+    <div class="col-12">
+      <h6 class="my-0 text-black-tint-2">{{ post.date | date: "%b %-d, %Y" }}</h6>
+      <a class="my-0 article-link" href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.short_description }}</p>
+    </div>
+    {% endfor %}
+</div>
+</div>
