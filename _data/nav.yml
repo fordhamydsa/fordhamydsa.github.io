@@ -9,9 +9,9 @@ header:
   - title: "Events Calendar"
     url: "/calendar/"
     description: "Chapter Events Calendar"
-  - title: "Forms"
-    url: "/forms/"
-    description: "Administrative forms"
+  #- title: "Forms"
+  #  url: "/forms/"
+  #  description: "Administrative forms"
 
 # footer links
 footer:
