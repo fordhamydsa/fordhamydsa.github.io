@@ -23,10 +23,10 @@ https://actionnetwork.org/petitions/protect-our-right-to-bodily-autonomy
 
 
 The second we would like to bring your attention to address the attatcks on the Democratic process this institution faces. Our demands include the following:
--Allow students meet on campus and reserve rooms without requiring the student organization to be an official club.
--Admin should be expected to respond to emails from unrecognized and recognized student organizations within five business days of receiving the email.
--Allow unrecognized student organizations to post media on postable locations on campus, given that the media is inspected and approved by the administration.
--Streamline the process for club recognition
+- Allow students meet on campus and reserve rooms without requiring the student organization to be an official club.
+- Admin should be expected to respond to emails from unrecognized and recognized student organizations within five business days of receiving the email.
+- Allow unrecognized student organizations to post media on postable locations on campus, given that the media is inspected and approved by the administration.
+- Streamline the process for club recognition
 For more information and how to sign this peittion, it can be accessed at this [link](https://actionnetwork.org/petitions/democratize-fordham), and from the URL below.
 https://actionnetwork.org/petitions/democratize-fordham)
 
