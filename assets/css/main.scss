@@ -76,8 +76,16 @@ p {
 }
 
 .page-footer-owner {
-    background: var(--highlight);
-    color: inherit;
+background: #3B3838;
+    background-color: rgb(59, 56, 56);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-image: none;
+    background-size: auto;
+    background-origin: padding-box;
+    background-clip: border-box;
 }
 
 ::-webkit-scrollbar {
