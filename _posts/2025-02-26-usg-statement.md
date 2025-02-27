@@ -2,7 +2,7 @@
 layout: post
 title: "The USG Doesn't Represent Me: A Statement"
 permalink: /2025-02-26-usg-statement/
-tag: reproductive
+tag: else
 short_description: "Fordham YDSA has made a Statement on the Calculated and Undemocratic acts of USG"
 image: "assets/images/FordhamUSGCracked.png"
 image_alt: ""
