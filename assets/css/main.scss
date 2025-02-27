@@ -72,7 +72,16 @@ p {
 }
 
 .page-footer-copyright {
-    background: var(--red);
+    background: #212529;
+    background-color: rgb(33, 37, 41);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-image: none;
+    background-size: auto;
+    background-origin: padding-box;
+    background-clip: border-box;
 }
 
 .page-footer-owner {
