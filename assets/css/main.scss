@@ -72,29 +72,12 @@ p {
 }
 
 .page-footer-copyright {
-    background: #212529;
-    background-color: rgb(33, 37, 41);
-    background-position-x: 0%;
-    background-position-y: 0%;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-image: none;
-    background-size: auto;
-    background-origin: padding-box;
-    background-clip: border-box;
+    background: var(--red);
 }
 
 .page-footer-owner {
-background: #3B3838;
-    background-color: rgb(59, 56, 56);
-    background-position-x: 0%;
-    background-position-y: 0%;
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-image: none;
-    background-size: auto;
-    background-origin: padding-box;
-    background-clip: border-box;
+    background: var(--highlight);
+    color: inherit;
 }
 
 ::-webkit-scrollbar {
