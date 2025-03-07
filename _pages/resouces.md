@@ -16,10 +16,11 @@ We currently have no form for subscribing to our email bulletin. Please send an 
 
 ## For New Members
 **YDSA members and inquiring non-memners are NOT required to pay dues!** 
+
 [What is DSA? An Introduction.](https://www.dsausa.org/organize/intro_to_dsa/)
 
-[DSA Code of Conduct for Members](https://www.dsausa.org/dsa-code-of-conduct-for-members/) (adopted as Birmingham DSA's Code of Conduct by resolution in May 2022)
+[DSA Code of Conduct for Members](https://www.dsausa.org/dsa-code-of-conduct-for-members/) 
 
-[DSA Meeting Code of Conduct](https://www.dsausa.org/resources/harassment-and-grievance/dsa-meeting-code-of-conduct-4-7-2020/) (adopted as Birmingham DSA's Meeting Code of Conduct by resolution in May 2022)
+[DSA Meeting Code of Conduct](https://www.dsausa.org/resources/harassment-and-grievance/dsa-meeting-code-of-conduct-4-7-2020/) 
 
 [The YDSA Constitution.](https://y.dsausa.org/about/ydsa-constitution/) 
